@@ -1,0 +1,353 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"g",
+				"group-name"
+			],
+			[
+				"sala",
+				"salarioAnual"
+			],
+			[
+				"SALES",
+				"SALES_PROD"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 674,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 444,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 384,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/user.js",
+			"settings":
+			{
+				"buffer_size": 298,
+				"line_ending": "Unix",
+				"name": "'use strict'"
+			}
+		}
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/edcastillo/Documents/FullStack/curso-mean2/package.json",
+		"/Users/edcastillo/Documents/FullStack/curso-mean2/proyecto-curso-mean2.sublime-project",
+		"/Users/edcastillo/Documents/POO_TESJI/eduardo/encapsulacion/Persona.java",
+		"/Users/edcastillo/tesji/EjerciciosJersey1/ClienteRest/.gitignore",
+		"/Users/edcastillo/Documents/Clase3/SendEmail/src/main/java/com/rupestre/gmail/EnviarCorreo.java",
+		"/Users/edcastillo/AppServers/apache-tomcat-8.5.23/conf/tomcat-users.xsd",
+		"/Users/edcastillo/AppServers/apache-tomcat-8.0.47/conf/tomcat-users.xml",
+		"/Users/edcastillo/AppServers/glassfish3/glassfish/domains/domain1/config/domain.xml",
+		"/Users/edcastillo/AppServers/payara41/glassfish/domains/domain1/config/domain.xml",
+		"/Volumes/certificati/SpringWeb/GlobalMentori/Ejercicios/Leccion 02/spring-interprete-01/src/main/java/beans/Traductor.java",
+		"/Volumes/certificati/SpringWeb/GlobalMentori/Ejercicios/Leccion 02/spring-interprete-01/src/main/java/beans/InterpreteEspanol.java",
+		"/Volumes/certificati/SpringWeb/GlobalMentori/Ejercicios/Leccion 02/spring-interprete-01/src/main/java/prueba/PruebaInterprete.java",
+		"/Volumes/certificati/SpringWeb/Quartz/SpringExample/src/main/java/com/mkyong/common/RunMeTask.java",
+		"/Users/edcastillo/.bash_profile",
+		"/Users/edcastillo/Documents/Curso_Java_IPN/DIA_1/untitled folder 2/SayHello.java",
+		"/Users/edcastillo/Documents/Curso_Java_IPN/DIA_1/untitled folder 2/Persona.java",
+		"/Users/edcastillo/NetBeansProjects/DAO/src/main/java/com/oracle/dao/DAO.java",
+		"/Users/edcastillo/Desktop/Persona.java",
+		"/Users/edcastillo/Desktop/Animal.java",
+		"/Users/edcastillo/Documents/Red Hat JBoss Application Administration I.docx",
+		"/Users/edcastillo/Desktop/Cambios.txt",
+		"/Users/edcastillo/Downloads/Ejercicios 3/Leccion 04/spring-concurso-talentos-01 2/src/main/resources/applicationContext.xml",
+		"/Users/edcastillo/Documents/Walmart/CamelProjects/camelinaction-master/chapter2/ftp-jms/pom.xml",
+		"/Users/edcastillo/NetBeansProjects/PreguntasCertificacionProgramer8/src/untitled",
+		"/Users/edcastillo/Desktop/ClienteWebService/Calculadora.xsd",
+		"/Users/edcastillo/Desktop/ClienteWebService/Calculadora.wsdl.xml",
+		"/Users/edcastillo/Documents/AmbientePensiones/glassfish3/glassfish/domains/domain1/applications/solicitud-pension-app-1.0-SNAPSHOT/solicitud-pension-web-1.0-SNAPSHOT_war/views/registroSolicitudPension/buscarRepresentante.xhtml",
+		"/Users/edcastillo/Documents/ArchivosConfig/ALTER TABLE K_PETICIONARIO.sql",
+		"/Users/edcastillo/Documents/ProyectosIMSS/Solicitud/code/sip-imss/sicp-imss-web/src/main/webapp/views/registroSolicitud/expediente.xhtml",
+		"/Users/edcastillo/Documents/AmbienteSolicitud/glassfish3/glassfish/domains/domain1/applications/sicp-imss-app-2.0/sicp-imss-web-2.0_war/views/registroSolicitud/solicitante.xhtml",
+		"/Users/edcastillo/Documents/Ejemplos/Banco/src/src/Banco.java",
+		"/Users/edcastillo/Documents/Ejemplos/Banco/src/src/CuentaCorriente.java",
+		"/Users/edcastillo/Documents/Ejemplos/Banco/src/src/CuentaAhorros.java",
+		"/Users/edcastillo/Documents/Ejemplos/Banco/src/src/Cuenta.java",
+		"/Users/edcastillo/Documents/Ejemplos/Banco/src/src/Cliente.java",
+		"/Users/edcastillo/Documents/MyFirstApp.java"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"project",
+			"PersonaPool",
+			"printMe",
+			"submit",
+			"#d00062",
+			"Report",
+			"makin",
+			"<Connector port",
+			"port",
+			"mydb",
+			"<p:fileUpload",
+			"ajax",
+			"onkeypress=\"return limitar(event)\"",
+			"hojas",
+			"aceptar",
+			"limitar",
+			"squeda Avanzada\nsqueda Avanzada\nsqueda Avanzada\nsqueda Avanzada\nsqueda Avanzada",
+			"limitar",
+			"idFolioPago",
+			"monto",
+			"El folio es obligatorio",
+			"lpcDlgMsgComprobante",
+			"colonia"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ProDB"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.js",
+					"settings":
+					{
+						"buffer_size": 444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								438,
+								438
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								253,
+								253
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "models/user.js",
+					"settings":
+					{
+						"buffer_size": 298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								298,
+								298
+							]
+						],
+						"settings":
+						{
+							"auto_name": "'use strict'",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
